@@ -19,5 +19,12 @@
     "http-status": "^1.7.3",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.6.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-n": "^16.2.0",
+    "eslint-plugin-promise": "^6.1.1"
   }
 }
